@@ -1,0 +1,2 @@
+[18-Nov-2021 16:44:46 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/tecnomak/public_html/modules/laudus/cron-sync-laudus-stock.php on line 6
+[18-Nov-2021 16:44:46 America/Santiago] PHP Notice:  A non well formed numeric value encountered in /home/tecnomak/public_html/modules/laudus/cron-sync-laudus-stock.php on line 6

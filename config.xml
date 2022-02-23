@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>laudus</name>
+    <displayName><![CDATA[Laudus ERP]]></displayName>
+    <version><![CDATA[1.1.9]]></version>
+    <description><![CDATA[Permite conectar su tienda online con Laudus ERP]]></description>
+    <author><![CDATA[Laudus S.A.]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Seguro que quiere desinstalar el modulo Laudus]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
